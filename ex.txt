@@ -1,0 +1,84 @@
+include <iostream>
+include <fstream>
+include <math>
+
+int a=8;
+float d=20;
+char g;
+int w=7;
+int c=10;
+int h[10];
+int n[10][10];
+
+class obj
+{
+public:
+{
+int k;
+!
+function adunare()
+{
+a=10;
+h[5]=20;
+}
+}
+private:
+{
+int j;
+!
+function scadere()
+{
+a=10;
+n[1][2]=10;
+}
+}
+protected:
+{
+int i;
+!
+function max()
+{
+a=10;
+}
+}
+}
+
+function min()
+{
+a=10;
+return 10+20 - 30;
+while( a<c or a==c )
+{
+if(a>c)
+{
+a=3;
+};
+};
+for(i to 10,20) 
+{
+a=11;
+};
+}
+
+int main()
+{
+return 10+20 - 30;
+while( a<c or a==c )
+{
+if(a>c)
+{
+a=3;
+};
+};
+for(i to 10,20) 
+{
+a=11;
+};
+d=5+h[5];
+d=5+n[10][10];
+d=5+c+5*9/14;
+eval(d);
+call adunare();
+c=7;
+eval(435345);
+}
